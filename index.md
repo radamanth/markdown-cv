@@ -3,7 +3,7 @@ layout: cv
 title: CV Tony Deboschère
 ---
 # Tony Deboschère
-Architecte Java / Devops 15 ans d'expérience
+Architecte logiciel / Devops - 15 ans d'expérience
 
 
 <div id="webaddress">
