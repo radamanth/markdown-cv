@@ -44,6 +44,7 @@ __BAC STI Génie Electronique__
 
 `09/2017 - 09/2018`
 __Thales Alenia Space__, Toulouse
+{: .hrtde }
 - __Rôle :__ Architecte Logiciel AJM et Commons
 - __Projet Spaceops :__
   - Anti Jamming Management : Service de gestion des couvertures d’anti-brouillage. (DRSF)
@@ -55,11 +56,9 @@ __Thales Alenia Space__, Toulouse
   - Postgresql / MongoDB
   - Ansible / DEVOPS
   - Méthodes Agiles ( SCRUM, Agile à l'échelle ) 
-  {: .hrtde }
 
 `01/2017 à 08/2017`
 __Thales Alenia Space__, Toulouse
-
 - __Rôle :__ Architecte Logiciel 
 - __Projet TSP :__ Le projet Time Service Provider (TSP) est une infrastructure dont la mission est de donner la référence temporelle UTC pour l’environnement Galileo. Ses missions : 
   - Mise à disposition du pilotage de l'heure du système Galileo (GST) par rapport à l'UTC
