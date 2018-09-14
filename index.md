@@ -55,7 +55,7 @@ __Thales Alenia Space__, Toulouse
   - Postgresql / MongoDB
   - Ansible / DEVOPS
   - Méthodes Agiles ( SCRUM, Agile à l'échelle ) 
-****
+  {: .hrtde }
 
 `01/2017 à 08/2017`
 __Thales Alenia Space__, Toulouse
@@ -71,7 +71,7 @@ __Thales Alenia Space__, Toulouse
   - MongoDB
   - Gitlab / Ansible
   - Méthodes Agiles ( SCRUM ) 
-****
+
 
 `12/2015 à 01/2017`
 __Orange__, Toulouse
