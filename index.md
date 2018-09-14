@@ -59,6 +59,7 @@ __Thales Alenia Space__, Toulouse
 
 `01/2017 à 08/2017`
 __Thales Alenia Space__, Toulouse
+{: .hrtde }
 - __Rôle :__ Architecte Logiciel 
 - __Projet TSP :__ Le projet Time Service Provider (TSP) est une infrastructure dont la mission est de donner la référence temporelle UTC pour l’environnement Galileo. Ses missions : 
   - Mise à disposition du pilotage de l'heure du système Galileo (GST) par rapport à l'UTC
@@ -74,7 +75,7 @@ __Thales Alenia Space__, Toulouse
 
 `12/2015 à 01/2017`
 __Orange__, Toulouse
-
+{: .hrtde }
 - __Rôle :__ Consultant Expert Java 
 - __Projet CATV :__ Le projet CATV permet l’animation des contenus (VOD, Live) sur les box internet d’Orange.
 Il s’agit d’une refonte d’un système existant sur des technologies Java/J2EE.
@@ -87,7 +88,7 @@ Il s’agit d’une refonte d’un système existant sur des technologies Java/J
 
 `08/2015 à 11/2015`
 __Medicalliance__, Toulouse
-
+{: .hrtde }
 - __Rôle :__ Architecte logiciel Fullstack 
 - __Projet Backoffice :__ Le projet Backoffice est une application web developpée sur la stack JHipster (Angular, Mongo, SpringBoot).
 La fonction de ce projet est d’aider les équipes à composer un catalogue de produits desitné à l’impression papier.
@@ -100,7 +101,7 @@ La fonction de ce projet est d’aider les équipes à composer un catalogue de 
 
 `06/2011 à 07/2015`
 __CIRSO__, Toulouse
-
+{: .hrtde }
 - __Rôle :__ Consultant Expert Java GWT
 - __Projet OPUS :__  Le projet Opus est une projet client serveur, qui permet la gestion des organigrammes des URSSAF.
 - __Projet ODEA/ODE :__ Le projet Odea est une nouvelle brique technique qui s’inscrit dans le plan de rénovation du système d’information des URSSAF. Il s’agit d’un brique qui permet de transférer des messages en fonction de règles métier issues d’applications éxistentes.
@@ -114,7 +115,7 @@ __CIRSO__, Toulouse
   
 `01/2010 à 05/2011`
 __EXANE__, Paris
-
+{: .hrtde }
 - __Rôle :__ Consultant Expert Java GWT
 - __Projet Datacenter :__ Le projet Datacenter est le portail qui permet la diffusion des différentes publications des analystes d'Exane.
 - __Projet Easychat :__ Le projet Easychat est un tout nouveau canal de diffusion d’informations d’Exane. Il permet à ses clients d’avoir accès aux différents commentaires des analystes en direct.
@@ -128,7 +129,7 @@ __EXANE__, Paris
 
 `10/2007 à 12/2009`
 __MANPOWER__, Paris
-
+{: .hrtde }
 - __Rôle :__ Consultant Expert Java/Flex
 - __Projet Gestion de Commandes :__ Le projet HOMA s’occupe de la gestion des commandes. Cette application permet de répondre aux besoins en resources humaines des clients de Manpower
 - __Projet SIDE :__ Le projet SIDE a été développé afin de répondre à l'appel d'offre Pole-Emploi. Il s'agit de pouvoir suivre le processus de placement des candidats faisant partie de l'offre.
@@ -143,7 +144,7 @@ __MANPOWER__, Paris
 
 `09/2003 à 09/2006`
 __Anciennes Missions__, Paris
-
+{: .hrtde }
 - __Rôle :__ De développeur junior à expert.
 - __Description :__ Début de carrière sur Paris toujours dans la prestation de service aux seins de multiples comptes en régie et au forfait, notamment chez :
   - MANPOWER
