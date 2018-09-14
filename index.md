@@ -55,7 +55,6 @@ __Thales Alenia Space__, Toulouse
   - Postgresql / MongoDB
   - Ansible / DEVOPS
   - Méthodes Agiles ( SCRUM, Agile à l'échelle ) 
-
 ****
 
 `01/2017 à 08/2017`
@@ -72,7 +71,6 @@ __Thales Alenia Space__, Toulouse
   - MongoDB
   - Gitlab / Ansible
   - Méthodes Agiles ( SCRUM ) 
-
 ****
 
 `12/2015 à 01/2017`
@@ -88,8 +86,6 @@ Il s’agit d’une refonte d’un système existant sur des technologies Java/J
   - Ansible / DEVOPS
   - Méthodes Agiles ( SCRUM ) 
 
-****
-
 `08/2015 à 11/2015`
 __Medicalliance__, Toulouse
 
@@ -102,8 +98,6 @@ La fonction de ce projet est d’aider les équipes à composer un catalogue de 
   - MongoDB
   - Ansible / DEVOPS
   - Méthodes Agiles ( SCRUM )
-
-****
 
 `06/2011 à 07/2015`
 __CIRSO__, Toulouse
@@ -119,8 +113,6 @@ __CIRSO__, Toulouse
   - Apache CXF
   - Eclipse RCP 
   
-****
-
 `01/2010 à 05/2011`
 __EXANE__, Paris
 
@@ -134,8 +126,6 @@ __EXANE__, Paris
   - Postgresql
   - Apache CXF  
   - Flex
-
-****
 
 `10/2007 à 12/2009`
 __MANPOWER__, Paris
@@ -151,8 +141,6 @@ __MANPOWER__, Paris
   - Postgresql
   - Apache CXF  
   - Flex
-
-****
 
 `09/2003 à 09/2006`
 __Anciennes Missions__, Paris
