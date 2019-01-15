@@ -42,6 +42,19 @@ __BAC STI Génie Electronique__
 
 ## Missions
 
+`Depuis 10/2018`
+__ADS Géo__, Toulouse
+{: .hrtde }
+- __Rôle :__ Architecte DEVOPS
+- __Projet Agrifactory :__
+  - Le projet Agrifactory a pour but de mettre en place une plateforme de service métiers dans le cloud (GKE). Les enjeux sont la réduction du Time to Market et la mutualisation des coûts d'exploitation, permettant ainsi la création de nouveaux services plus facilement.
+- __Compétences :__ 
+  - GITLAB CI / DEVOPS
+  - Architecture micro-services
+  - Docker
+  - Kubernetes
+  - Google Cloud Platform
+  
 `09/2017 - 09/2018`
 __Thales Alenia Space__, Toulouse
 {: .hrtde }
