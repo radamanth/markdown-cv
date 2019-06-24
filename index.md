@@ -14,7 +14,7 @@ Architecte logiciel / Devops - 15 ans d'expérience
 
 ## Actuellement
 
-__Architecte Java / Devops pour Thalès Alenia Space depuis 2017__
+__Architecte Devops pour ADS Géo depuis Octobre 2018__
 
 ## Spécialité
 
