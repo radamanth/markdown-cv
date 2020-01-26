@@ -27,6 +27,7 @@ Architecture backend, Forges logicielles
 * __Méthodes et outils :__ Git, IntellIJ, Eclipse
 * __Forges logicielles :__ Gitlab, Jenkins, Ansible
 * __Frameworks :__ Spring, JHipster,VertX, Angular
+* __Devops :__ GCP, Kubernetes, Docker, Helm
 
 ## Formation
 
