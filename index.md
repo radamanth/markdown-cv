@@ -43,7 +43,21 @@ __BAC STI Génie Electronique__
 
 ## Missions
 
-`Depuis 10/2018`
+`Depuis 04/2020`
+__ADS Géo__, Toulouse
+{: .hrtde }
+- __Rôle :__ Architecte DEVOPS
+- __Projet Sobloo :__
+  - Le projet Soblooest un DIAS (Data and Information Access Service) européen financé par l’ESA, dont le but est de fournir gratuitement un accès aux données Copernicus (Sentinel 1, 2, 3, 5P, core services). Projet lancé depuis 2018, il prend place au sein d’un consortium Airbus, Orange Business Services et Cap Gémini.
+- __Compétences :__ 
+  - GITLAB CI / DEVOPS
+  - Rancher
+  - Docker
+  - Kubernetes
+  - Helm
+  - Dynatrace
+
+`10/2018 - 04/2020`
 __ADS Géo__, Toulouse
 {: .hrtde }
 - __Rôle :__ Architecte DEVOPS
