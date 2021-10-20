@@ -2,8 +2,8 @@
 layout: cv
 title: CV Tony Deboschère
 ---
-# Tony Deboschère - 650 € HT/J
-Architecte logiciel / Devops - 18 ans d'expérience
+# Tony Deboschère
+Architecte logiciel / Devops - 18 ans d'expérience - TJM: 650 € HT
 
 <div id="webaddress">
 <a href="mailto:tde@neovia.fr">tde@neovia.fr</a>
