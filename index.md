@@ -3,7 +3,7 @@ layout: cv
 title: CV Tony Deboschère
 ---
 # Tony Deboschère
-Architecte logiciel / Devops - 18 ans d'expérience - TJM: 650 € HT
+Architecte logiciel / Devops - 19 ans d'expérience - TJM: 650 € HT
 
 <div id="webaddress">
 <a href="mailto:tde@neovia.fr">tde@neovia.fr</a>
@@ -40,13 +40,19 @@ __BAC STI Génie Electronique__
 __Partecis__, Toulouse
 {: .hrtde }
 
-- __Rôle :__ Expert technique
+- __Rôle :__ Architecte logiciel
+- __Framework Caravan:__
+  - Le Framework Caravan est utilisé à travers les applications Partecies et a pour vocation de regrouper et standardiser les besoins et usages.
+  - Développement des modules :
+    - MongoDB
+    - Kafka  
 - __Smdata :__
   - Partecis est une joint venture BNP Paribas / Natixis
   - Le projet SMDATA est un outils destiné à l'analyse des transactions monétiques. Architecturé autour d'une BDD MongoDB il a pour vocation l'archivage de millions transactions.
 - __Compétences :__
   - Spring Boot
   - Expertise MongoDB
+  - Expertise Kafka
   - Ansible
   - Dynatrace
 
