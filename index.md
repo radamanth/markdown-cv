@@ -36,11 +36,12 @@ __BAC STI Génie Electronique__
 
 ## Missions
 
-<div class="hrtde"><br/>
+<div class="hrtde"></div>
+
 `03/2022 - 12/2022`
 __ADS Géo__, Toulouse
 
-</div>
+<div class="hrtde"><br/></div>
 
 - __Rôle :__ Architecte DEVOPS / Lead Tech
 - __Projet Sobloo :__
