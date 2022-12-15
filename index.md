@@ -36,7 +36,7 @@ __BAC STI Génie Electronique__
 
 ## Missions
 
-<div class="hrtde"></div>
+<div class="hrtde"><br/></div>
 
 `03/2022 - 12/2022`
 __ADS Géo__, Toulouse
@@ -63,6 +63,8 @@ __ADS Géo__, Toulouse
   - Mongo
   - Postrgres
 
+<div class="hrtde"><br/></div>
+
 `04/2021 - 02/2022`
 __Partecis__, Toulouse
 
@@ -84,6 +86,8 @@ __Partecis__, Toulouse
   - Ansible
   - Dynatrace
 
+<div class="hrtde"><br/></div>
+
 `04/2020 - 03/2021`
 __ADS Géo__, Toulouse
 
@@ -100,6 +104,8 @@ __ADS Géo__, Toulouse
   - Helm
   - Dynatrace
 
+<div class="hrtde"><br/></div>
+
 `10/2018 - 04/2020`
 __ADS Géo__, Toulouse
 
@@ -108,13 +114,15 @@ __ADS Géo__, Toulouse
 - __Rôle :__ Architecte DEVOPS
 - __Projet Agrifactory :__
   - Le projet Agrifactory a pour but de mettre en place une plateforme de service métiers dans le cloud (GKE). Les enjeux sont la réduction du Time to Market et la mutualisation des coûts d'exploitation, permettant ainsi la création de nouveaux services plus facilement.
-- __Compétences :__ 
+- __Compétences :__
   - GITLAB CI / DEVOPS
   - Architecture micro-services
   - Docker
   - Kubernetes
   - Google Cloud Platform
   
+<div class="hrtde"><br/></div>
+
 `09/2017 - 09/2018`
 __Thales Alenia Space__, Toulouse
 
@@ -131,6 +139,8 @@ __Thales Alenia Space__, Toulouse
   - Postgresql / MongoDB
   - Ansible / DEVOPS
   - Méthodes Agiles ( SCRUM, Agile à l'échelle )
+
+<div class="hrtde"><br/></div>
 
 `01/2017 à 08/2017`
 __Thales Alenia Space__, Toulouse
@@ -149,10 +159,13 @@ __Thales Alenia Space__, Toulouse
   - Gitlab / Ansible
   - Méthodes Agiles ( SCRUM )
 
+<div class="hrtde"><br/></div>
+
 `12/2015 à 01/2017`
 __Orange__, Toulouse
 
 <div class="hrtde"><br/></div>
+
 - __Rôle :__ Consultant Expert Java
 - __Projet CATV :__ Le projet CATV permet l’animation des contenus (VOD, Live) sur les box internet d’Orange.
 Il s’agit d’une refonte d’un système existant sur des technologies Java/J2EE.
@@ -162,6 +175,8 @@ Il s’agit d’une refonte d’un système existant sur des technologies Java/J
   - Postgresql
   - Ansible / DEVOPS
   - Méthodes Agiles ( SCRUM )
+
+<div class="hrtde"><br/></div>
 
 `08/2015 à 11/2015`
 __Medicalliance__, Toulouse
@@ -178,6 +193,8 @@ La fonction de ce projet est d’aider les équipes à composer un catalogue de 
   - Ansible / DEVOPS
   - Méthodes Agiles ( SCRUM )
 
+<div class="hrtde"><br/></div>
+
 `06/2011 à 07/2015`
 __CIRSO__, Toulouse
 
@@ -193,7 +210,9 @@ __CIRSO__, Toulouse
   - Postgresql
   - Apache CXF
   - Eclipse RCP
-  
+
+<div class="hrtde"><br/></div>
+
 `01/2010 à 05/2011`
 __EXANE__, Paris
 
@@ -209,6 +228,8 @@ __EXANE__, Paris
   - Postgresql
   - Apache CXF  
   - Flex
+
+<div class="hrtde"><br/></div>
 
 `10/2007 à 12/2009`
 __MANPOWER__, Paris
@@ -226,6 +247,8 @@ __MANPOWER__, Paris
   - Postgresql
   - Apache CXF  
   - Flex
+
+<div class="hrtde"><br/></div>
 
 `09/2003 à 09/2006`
 __Anciennes Missions__, Paris
