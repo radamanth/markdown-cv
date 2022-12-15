@@ -36,7 +36,31 @@ __BAC STI Génie Electronique__
 
 ## Missions
 
-`Depuis 04/2021`
+`03/2022 - 12/2022`
+__ADS Géo__, Toulouse
+{: .hrtde }
+
+- __Rôle :__ Architecte DEVOPS / Lead Tech
+- __Projet Sobloo :__
+  - Le projet Sobloo est un DIAS (Data and Information Access Service) européen financé par l’ESA, dont le but est de fournir gratuitement un accès aux données Copernicus (Sentinel 1, 2, 3, 5P, core services). Projet lancé depuis 2018, il prend place au sein d’un consortium Airbus, Orange Business Services et Cap Gémini.
+- __Projet Extenso :__
+  - Le projet Extenso est un facilitateur d'accès à des images satellites historisées et geolocalisées. Il permet sur les différentes sources (onda, diashub, usgs ...) :
+    - la recherche
+    - le réchauffement des données
+    - la récupération des données sur des buckets managés par Extenso ou fournis par l'utilisateur..
+- __Compétences :__
+  - GITLAB CI / DEVOPS
+  - Rancher
+  - Docker
+  - Kubernetes
+  - Helm
+  - Dynatrace
+  - Spring Boot
+  - Rabbit MQ
+  - Mongo
+  - Postrgres
+
+`04/2021 - 02/2022`
 __Partecis__, Toulouse
 {: .hrtde }
 
