@@ -38,7 +38,8 @@ __BAC STI Génie Electronique__
 
 `03/2022 - 12/2022`
 __ADS Géo__, Toulouse
-<div class="hrtde"/>
+
+<div class="hrtde"><br/></div>
 
 - __Rôle :__ Architecte DEVOPS / Lead Tech
 - __Projet Sobloo :__
@@ -62,7 +63,8 @@ __ADS Géo__, Toulouse
 
 `04/2021 - 02/2022`
 __Partecis__, Toulouse
-<div class="hrtde"/>
+
+<div class="hrtde"><br/></div>
 
 - __Rôle :__ Architecte logiciel
 - __Framework Caravan:__
@@ -82,7 +84,8 @@ __Partecis__, Toulouse
 
 `04/2020 - 03/2021`
 __ADS Géo__, Toulouse
-<div class="hrtde"/>
+
+<div class="hrtde"><br/></div>
 
 - __Rôle :__ Architecte DEVOPS
 - __Projet Sobloo :__
@@ -97,7 +100,8 @@ __ADS Géo__, Toulouse
 
 `10/2018 - 04/2020`
 __ADS Géo__, Toulouse
-<div class="hrtde"/>
+
+<div class="hrtde"><br/></div>
 
 - __Rôle :__ Architecte DEVOPS
 - __Projet Agrifactory :__
@@ -111,7 +115,8 @@ __ADS Géo__, Toulouse
   
 `09/2017 - 09/2018`
 __Thales Alenia Space__, Toulouse
-<div class="hrtde"/>
+
+<div class="hrtde"><br/></div>
 
 - __Rôle :__ Architecte Logiciel AJM et Commons
 - __Projet Spaceops :__
@@ -127,7 +132,8 @@ __Thales Alenia Space__, Toulouse
 
 `01/2017 à 08/2017`
 __Thales Alenia Space__, Toulouse
-<div class="hrtde"/>
+
+<div class="hrtde"><br/></div>
 
 - __Rôle :__ Architecte Logiciel
 - __Projet TSP :__ Le projet Time Service Provider (TSP) est une infrastructure dont la mission est de donner la référence temporelle UTC pour l’environnement Galileo. Ses missions : 
@@ -143,7 +149,8 @@ __Thales Alenia Space__, Toulouse
 
 `12/2015 à 01/2017`
 __Orange__, Toulouse
-<div class="hrtde"/>
+
+<div class="hrtde"><br/></div>
 - __Rôle :__ Consultant Expert Java
 - __Projet CATV :__ Le projet CATV permet l’animation des contenus (VOD, Live) sur les box internet d’Orange.
 Il s’agit d’une refonte d’un système existant sur des technologies Java/J2EE.
@@ -156,7 +163,8 @@ Il s’agit d’une refonte d’un système existant sur des technologies Java/J
 
 `08/2015 à 11/2015`
 __Medicalliance__, Toulouse
-<div class="hrtde"/>
+
+<div class="hrtde"><br/></div>
 
 - __Rôle :__ Architecte logiciel Fullstack
 - __Projet Backoffice :__ Le projet Backoffice est une application web developpée sur la stack JHipster (Angular, Mongo, SpringBoot).
@@ -170,7 +178,8 @@ La fonction de ce projet est d’aider les équipes à composer un catalogue de 
 
 `06/2011 à 07/2015`
 __CIRSO__, Toulouse
-<div class="hrtde"/>
+
+<div class="hrtde"><br/></div>
 
 - __Rôle :__ Consultant Expert Java GWT
 - __Projet OPUS :__  Le projet Opus est une projet client serveur, qui permet la gestion des organigrammes des URSSAF.
@@ -185,7 +194,8 @@ __CIRSO__, Toulouse
   
 `01/2010 à 05/2011`
 __EXANE__, Paris
-<div class="hrtde"/>
+
+<div class="hrtde"><br/></div>
 
 - __Rôle :__ Consultant Expert Java GWT
 - __Projet Datacenter :__ Le projet Datacenter est le portail qui permet la diffusion des différentes publications des analystes d'Exane.
@@ -200,7 +210,8 @@ __EXANE__, Paris
 
 `10/2007 à 12/2009`
 __MANPOWER__, Paris
-<div class="hrtde"/>
+
+<div class="hrtde"><br/></div>
 
 - __Rôle :__ Consultant Expert Java/Flex
 - __Projet Gestion de Commandes :__ Le projet HOMA s’occupe de la gestion des commandes. Cette application permet de répondre aux besoins en resources humaines des clients de Manpower
@@ -216,7 +227,8 @@ __MANPOWER__, Paris
 
 `09/2003 à 09/2006`
 __Anciennes Missions__, Paris
-<div class="hrtde"/>
+
+<div class="hrtde"><br/></div>
 
 - __Rôle :__ De développeur junior à expert.
 - __Description :__ Début de carrière sur Paris toujours dans la prestation de service aux seins de multiples comptes en régie et au forfait, notamment chez :
