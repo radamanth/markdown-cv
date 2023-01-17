@@ -269,7 +269,7 @@ __Anciennes Missions__, Paris
   - IPERCAST
   - BAOBAZ
 
-## Centre d'intétêts
+## Centre d'intérêts
 
 Développement logiciel, Arts martiaux, Science-Fiction
 
