@@ -22,6 +22,7 @@ Devops, Architecture backend, Forges logicielles
 * __Forges logicielles :__ Gitlab, Jenkins, Ansible
 * __Frameworks :__ Spring, JHipster,VertX, Angular
 * __Devops :__ GCP, Kubernetes, Docker, Helm
+* __Langues :__ Anglais, Japonais (Lilate A1)
 
 ## Formation
 
@@ -268,7 +269,7 @@ __Anciennes Missions__, Paris
   - IPERCAST
   - BAOBAZ
 
-## Centre d'inétêts
+## Centre d'intétêts
 
 Développement logiciel, Arts martiaux, Science-Fiction
 
