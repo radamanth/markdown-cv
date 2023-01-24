@@ -39,6 +39,24 @@ __BAC STI Génie Electronique__
 
 <div class="hrtde"><br/></div>
 
+`01/2023 - 01/2023`
+__Medicalliance__, Toulouse
+
+<div class="hrtde"><br/></div>
+
+- __Rôle :__ Architecte logiciel Fullstack
+- __Projet Backoffice :__ Le projet Backoffice est une application web developpée sur la stack JHipster (Angular, Mongo, SpringBoot).
+La fonction de ce projet est d’aider les équipes à composer un catalogue de produits desitné à l’impression papier.
+- __Compétences :__ 
+  - Spring Boot
+  - AngularJS 1.5
+  - MongoDB
+  - Ansible / DEVOPS
+  - Méthodes Agiles ( SCRUM )
+
+
+<div class="hrtde"><br/></div>
+
 `03/2022 - 12/2022`
 __ADS Géo__, Toulouse
 
