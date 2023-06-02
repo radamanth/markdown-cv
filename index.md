@@ -3,7 +3,7 @@ layout: cv
 title: CV Tony Deboschère
 ---
 # Tony Deboschère
-Architecte logiciel / Devops - 19 ans d'expérience - TJM: 650 € HT
+Architecte logiciel / Devops - 20 ans d'expérience - TJM: 650 € HT
 
 <div id="webaddress">
 <a href="mailto:tde@neovia.fr">tde@neovia.fr</a>
@@ -37,6 +37,26 @@ __BAC STI Génie Electronique__
 
 ## Missions
 
+
+<div class="hrtde"><br/></div>
+
+`02/2023 - 06/2023`
+__Sopra Stéria__, Toulouse
+
+<div class="hrtde"><br/></div>
+
+- __Rôle :__ Architecte transverse
+- __Pôle d'architecture Transverse Douane:__ Le pôle d'architecture transverse a pour mission de mettre en place les moyens nécéssaires au bon développement des projets Sopra.
+  Ses actions sont diverses et vont de l'architecture logicielle à la mise en place de chaînes d'intégration continue.
+  Au sein de ce service je suis principalement intervenu sur des problématiques de perfomances sur de grande volumétrie sur les bases de données MongoDB et Postgresql.
+- __Compétences :__
+  - Spring Boot
+  - MongoDB
+  - Postgres
+  - Rancher
+  - Gitlab
+  
+
 <div class="hrtde"><br/></div>
 
 `01/2023 - 01/2023`
@@ -46,8 +66,8 @@ __Medicalliance__, Toulouse
 
 - __Rôle :__ Architecte logiciel Fullstack
 - __Projet Backoffice :__ Le projet Backoffice est une application web developpée sur la stack JHipster (Angular, Mongo, SpringBoot).
-La fonction de ce projet est d’aider les équipes à composer un catalogue de produits desitné à l’impression papier.
-- __Compétences :__ 
+  La fonction de ce projet est d’aider les équipes à composer un catalogue de produits desitné à l’impression papier.
+- __Compétences :__
   - Spring Boot
   - AngularJS 1.5
   - MongoDB
