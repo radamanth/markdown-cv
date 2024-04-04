@@ -37,6 +37,23 @@ __BAC STI Génie Electronique__
 
 ## Missions
 
+<div class="hrtde"><br/></div>
+
+`Depuis 07/2023`
+__CLS__, Toulouse
+
+<div class="hrtde"><br/></div>
+
+- __Rôle :__ Architecte DEVOPS
+- __Transfo:__ La DAT de CLS a engagé une transformation de son SI et migre ses nouvelles applications vers le cloud AWS.
+  Dans ce cadre je suis intervenu sur la partie DEVOPS avec la mise en place d'une CI commune et d'un process de release unifié.
+- __Compétences :__
+  - Cloud AWS 
+  - Gitlab CI
+  - Terraform/Terragrunt
+  - Docker
+  - K8S
+
 
 <div class="hrtde"><br/></div>
 
