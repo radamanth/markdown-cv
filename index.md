@@ -3,7 +3,7 @@ layout: cv
 title: CV Tony Deboschère
 ---
 # Tony Deboschère
-Architecte logiciel / Devops - 20 ans d'expérience - TJM: 650 € HT
+Architecte logiciel / Devops - 23 ans d'expérience - TJM: 650 € HT
 
 <div id="webaddress">
 <a href="mailto:tde@neovia.fr">tde@neovia.fr</a>
@@ -21,7 +21,7 @@ Devops, Architecture backend, Forges logicielles
 * __Méthodes et outils :__ Git, IntellIJ, Eclipse
 * __Forges logicielles :__ Gitlab, Jenkins, Ansible
 * __Frameworks :__ Spring, JHipster,VertX, Angular
-* __Devops :__ GCP, Kubernetes, Docker, Helm
+* __Devops :__ GCP, Kubernetes, Docker, Helm, Dokploy
 * __Langues :__ Anglais (Bilingue), Japonais (Lilate A1), Allemand (notions)
 
 ## Formation
@@ -52,6 +52,7 @@ __CLS__, Toulouse
   - Gitlab CI
   - Terraform/Terragrunt
   - Docker
+  - Helm
   - K8S
 
 
@@ -330,6 +331,6 @@ Développement logiciel, Arts martiaux, Science-Fiction
 
 <!-- ### Footer
 
-Dernière mise à jour : 20/10/2021
+Dernière mise à jour : 09/04/2026
 
 -->
