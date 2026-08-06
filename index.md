@@ -55,9 +55,25 @@ __CLS__, Toulouse
   - Helm
   - K8S
 
+<div class="hrtde"><br/></div>
+`Depuis 2026`
+__Dataionics__, Toulouse
 
 <div class="hrtde"><br/></div>
 
+- __Rôle :__ Architecte DEVOPS et Cloud, Architecte système 
+- __Dataionics:__ Sous l'impulsion de Ludovic et Emmanuel, j'ai rejoins l'aventure Dataionics en tant que responsable DevOps et architecte logiciel.
+- __Compétences :__
+  - Cloud Scaleway 
+  - Gitlab CI
+  - Dokploy
+  - Docker
+  - Helm
+  - K8S
+  - Java / Spring
+  - Vibe Coding with Antigravity
+
+<div class="hrtde"><br/></div>
 `02/2023 - 06/2023`
 __Sopra Stéria__, Toulouse
 
