@@ -1,6 +1,7 @@
 ---
 layout: cv
 title: CV Tony Deboschère
+update: 06/08/2026
 ---
 # Tony Deboschère
 Architecte logiciel / Devops - 23 ans d'expérience - TJM: 650 € HT
@@ -347,6 +348,6 @@ Développement logiciel, Arts martiaux, Science-Fiction
 
 <!-- ### Footer
 
-Dernière mise à jour : 09/04/2026
+Dernière mise à jour : 06/08/2026
 
 -->
